@@ -1,0 +1,3 @@
+﻿  Rasp4.cpp
+c:\users\dell\source\repos\rasp4\rasp4\rasp4.cpp(38): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Rasp4.vcxproj -> C:\Users\DELL\source\repos\Rasp4\Debug\Rasp4.exe
